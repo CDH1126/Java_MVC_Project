@@ -13,11 +13,11 @@
 
 🧰 기술 스택 <br>
 - OS: Windows <br>
-- 개발 도구: IntelliJ (IDEA 2024.3.4) <br>
 - WAS: Apache Tomcat 10.1.28 <br>
 - JDK: Java 17 <br>
-- 데이터베이스: MySQL <br>
-- 주요 라이브러리: Jakarta Servlet 6.0.0, JDBC API <br>
+- DBMS: MySQL <br>
+- 개발 도구: IntelliJ (IDEA 2024.3.4) <br>
+- 주요 기술: Jakarta Servlet 6.0.0, JDBC API <br>
 - 프로젝트 기간: 2024.12 <br>
 - 작업인원: 개인 프로젝트  
 
